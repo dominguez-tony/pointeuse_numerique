@@ -1,0 +1,127 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: black;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header h1 {
+    color: rgb(0, 174, 255);
+    font-family: Minecraft;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h2 p {
+    font-family: Minecraft;
+    font-size: 35px;
+    margin-left: 830px;
+}
+
+img {
+    width: 105px;
+    height: 180px;
+    margin: auto 70px;
+}
+
+#first {
+    margin: 160px 415px;
+    display: flex;
+    justify-content: space-around;
+    border-top: 10px double rgb(0, 174, 155);
+    width: 1000px;
+    padding-top: 100px;
+}
+
+#choice {
+    margin: 25px;
+    width: 160px;
+    height: 35px;
+    border-radius: 10%;
+    background-color: rgb(0, 174, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#when {
+    margin: 25px;
+    width: 160px;
+    height: 35px;
+    border-radius: 10%;
+    background-color: rgb(0, 174, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#pointage {
+    margin: 25px;
+    width: 160px;
+    height: 35px;
+    border-radius: 10%;
+    background-color: rgb(0, 174, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+#breakOut {
+    margin: 25px 45px;
+    width: 160px;
+    height: 35px;
+    border-radius: 10%;
+    background-color: rgb(0, 174, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 400px;
+}
+
+.infoNum {
+    margin: 50px;
+}
+
+.infoClock {
+    margin: 50px;
+}
+
+li p {
+    color: rgb(0, 140, 255);
+    font-family: cublocks;
+    /* margin: 50px 400px; */
+    font-size: 23px;
+}
+
+strong {
+    font-size: 30px;
+    color: rgb(0, 212, 11);
+}
+
+#pn {
+    margin: 50px 800px;
+    width: 220px;
+    height: 35px;
+    border-radius: 10%;
+    background-color: rgb(0, 174, 255);
+    color: rgb(0, 0, 0);
+    font-size: 20px; 
+}
+
+.cible {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
